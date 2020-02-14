@@ -1,25 +1,27 @@
-## Welcome to GitHub Pages
+## Thank you for your help learning this
 
 You can NOT use the [editor on GitHub](https://github.com/rydog1259/goodbyeWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was completly confused by the languages that they were using I am looking forward to working with css and html and php and mysql
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This site has been changes a litle so I should be able to see the differance.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 
+  This is header 1
 ## Header 2
+This is header 2
 ### Header 3
 
-- Bulleted
-- List
+- Bulleted list
+- Item 1
 
-1. Numbered
-2. List
+1. numbered list 
+2. item 2 
 
 **Bold** and _Italic_ and `Code` text
 
